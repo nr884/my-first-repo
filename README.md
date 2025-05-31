@@ -1,2 +1,12 @@
-# my-first-repo
-Training-repo
+# My First Repository
+
+これは私の最初のGitHubリポジトリです！
+
+## 学んだこと
+- GitHubアカウントの作成
+- SSH鍵の設定
+- リポジトリのクローン
+
+## 次の目標
+- Gitの基本コマンドを覚える
+- プログラミングの勉強を始める
